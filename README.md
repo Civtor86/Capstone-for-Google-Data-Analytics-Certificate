@@ -15,3 +15,16 @@ Key Objectives.
 D. Determine the credibility of the data. The dataset is public data from the Amazon Top 50 Best Selling Books (made available by Souter Saalu under a CC0 license): Data about
 Amazon's bestselling books from 2009 to 2019, categorized into fiction and nonfiction.
 • Data Limitations: It is good to note that the data being analyzed covers only the years 2009 up to 2019. Since the data is not current, and uses a small sample size. The results of the analysis may not be fully aligned with current usage trends.
+
+Insights found on the dataset. 
+
+Most of the book reviews are lower than 25000.
+The books that have massive reviews are priced lower than $25.
+The books with higher prices relatively have fewer reviews.
+We can see from the graph is that starting from 2011 there is lesser reviews.
+Books related to Fiction have more Ratings.
+Fiction and Non Fictions books that have higher ratings are more expensive.
+
+
+Conclusion: In general, in terms of price, non-fiction is always higher than fiction, while fiction usually has higher ratings and reviews than non-fiction.
+Fiction books are has a higher chance of being purchased than Non-Fiction Books
